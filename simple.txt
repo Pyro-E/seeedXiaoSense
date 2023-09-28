@@ -1,0 +1,2 @@
+New cop
+Check stashing
